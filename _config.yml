@@ -2,23 +2,23 @@
 markdown: kramdown
 
 # URL of the Site
-url: ''
+url:
 # Base URL of the Site (i.e., Name of the Repository in which the Site is hosted)
-baseurl: 
+baseurl: '/jekyll'
 
 # Title of the Site
 title: Mikoto Studio
 # Description of the Site
 description: Conceptual 3D Environment in Photo Realistic Quality.
 # URL of Image of the Site
-site-image: /WhatATheme/assets/images/catscleinto3d.png
+site-image: assets/images/catscleinto3d.png
 # Keywords of the Site
 site-keywords: Site, Template, Theme
 # URL for the Image of custom Favicon
-favicon-url: /WhatATheme/assets/images/logo.svg
+favicon-url: assets/images/logo.svg
 
 # URL of the Image of Custom Hero Image (i.e., the image in the background of the very first section of the Homepage)
-heroimage: /WhatATheme/assets/images/gate.png
+heroimage: assets/images/gate.png
 
 # Social Media and Contact
 # If you don't want to use any icon, you can leave them blank.
@@ -43,7 +43,7 @@ disqus-shortname:
 # Name of the Author
 author-name: mikotostudio
 # URL for the Image of the Author
-author-image: /WhatATheme/assets/images/logo.png
+author-image: assets/images/logo.png
 # 60 Words About the Author
 author-about: Conceptual 3D Environment Artist in Photo Realistic Quality.
 
